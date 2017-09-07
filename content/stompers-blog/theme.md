@@ -1,12 +1,8 @@
 +++
-title = "Blog"
+title = "GridSide Theme"
 date = "2017-09-07"
-image = "/img/car.jpg"
+image = "/img/stompers-gallery.png"
 +++
-
-
-GridSide Theme
-==============
 
 The GridSide theme is a multi-page portfolio and blog utilizing the
 [Materialize][materialize] frontend framework. Comments can be added using

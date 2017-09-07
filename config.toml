@@ -1,6 +1,6 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://www.example.com/"
-languageCode = "en-us"
+baseurl = "https://roederstompers.github.io/stompers/"
+languageCode = "de-DE"
 title = "Röderstompers"
 theme = "grid-side"
 publishDir = "docs"

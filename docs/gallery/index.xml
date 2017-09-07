@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Röderstompers</title>
-    <link>https://www.example.com/gallery/</link>
+    <link>https://roederstompers.github.io/stompers/gallery/</link>
     <description>Recent content in Galleries on Röderstompers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-DE</language>
     <copyright>&amp;#169; by Röderstompers</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://roederstompers.github.io/stompers/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/car/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/car/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/car/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/car/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/cup/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/cup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/cup/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/cup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/drone/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/drone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/drone/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/drone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/food/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/food/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/food/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/jars/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/jars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/jars/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/jars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/phone/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/phone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/phone/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/phone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/some-pictures/car/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/some-pictures/car/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/some-pictures/car/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/some-pictures/car/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/some-pictures/cup/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/some-pictures/cup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/some-pictures/cup/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/some-pictures/cup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/some-pictures/drone/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/some-pictures/drone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/some-pictures/drone/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/some-pictures/drone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/some-pictures/food/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/some-pictures/food/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/some-pictures/food/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/some-pictures/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/some-pictures/jars/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/some-pictures/jars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/some-pictures/jars/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/some-pictures/jars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/some-pictures/phone/</link>
+      <link>https://roederstompers.github.io/stompers/gallery/some-pictures/phone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/some-pictures/phone/</guid>
+      <guid>https://roederstompers.github.io/stompers/gallery/some-pictures/phone/</guid>
       <description></description>
     </item>
     

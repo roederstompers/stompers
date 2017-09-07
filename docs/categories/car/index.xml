@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Car on Röderstompers</title>
-    <link>https://www.example.com/categories/car/</link>
+    <link>https://roederstompers.github.io/stompers/categories/car/</link>
     <description>Recent content in Car on Röderstompers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-DE</language>
     <copyright>&amp;#169; by Röderstompers</copyright>
     
-	<atom:link href="https://www.example.com/categories/car/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://roederstompers.github.io/stompers/categories/car/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Another Car</title>
-      <link>https://www.example.com/project/anothercar/</link>
+      <link>https://roederstompers.github.io/stompers/project/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anothercar/</guid>
+      <guid>https://roederstompers.github.io/stompers/project/anothercar/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Car</title>
-      <link>https://www.example.com/project/car/</link>
+      <link>https://roederstompers.github.io/stompers/project/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/car/</guid>
+      <guid>https://roederstompers.github.io/stompers/project/car/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     

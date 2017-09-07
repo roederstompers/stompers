@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stompers-blogs on Röderstompers</title>
+    <link>https://www.example.com/stompers-blog/</link>
+    <description>Recent content in Stompers-blogs on Röderstompers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;#169; by Röderstompers</copyright>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/stompers-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.example.com/stompers-blog/car/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/stompers-blog/car/</guid>
+      <description>GridSide Theme ==============
+The GridSide theme is a multi-page portfolio and blog utilizing the [Materialize][materialize] frontend framework. Comments can be added using Disqus.
+The theme contains a main page with a single grid of images representing different sections of the website. Sections can be post, gallery, or _project_ for various rendering.
+ Current Materialize version is `0.97.0`. Current Font Awesome version is `4.4.0`. Current Masonry.js version is `3.3.1`. Current imagesLoaded.js version is `3.</description>
+    </item>
+    
+    <item>
+      <title>GridSide Theme</title>
+      <link>https://www.example.com/stompers-blog/theme/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/stompers-blog/theme/</guid>
+      <description>The GridSide theme is a multi-page portfolio and blog utilizing the Materialize frontend framework. Comments can be added using Disqus.
+The theme contains a main page with a single grid of images representing different sections of the website. Sections can be post, gallery, or project for various rendering.
+ Current Materialize version is 0.97.0. Current Font Awesome version is 4.4.0. Current Masonry.js version is 3.3.1. Current imagesLoaded.js version is 3.</description>
+    </item>
+    
+  </channel>
+</rss>

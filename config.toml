@@ -3,6 +3,7 @@ baseurl = "https://www.example.com/"
 languageCode = "en-us"
 title = "Röderstompers"
 theme = "grid-side"
+publishDir = "docs"
 copyright = "&#169; by Röderstompers"
 
 # The theme uses pagination for post, gallery, and project listings.

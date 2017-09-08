@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/video/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/stompers-blog/car/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/stompers-blog/theme/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/car/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/cup/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/drone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/food/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/jars/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/phone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/some-pictures/car/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/some-pictures/cup/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/some-pictures/drone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/some-pictures/food/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/some-pictures/jars/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/some-pictures/phone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/a-tag-with-spaces/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/anothercar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/anothercup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/another-tag/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/car/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/car/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/cup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/cup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/drone/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/anotherdrone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/drone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/food/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/anotherfood/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/food/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/gallery/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/jars/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/anotherjars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/jars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/much-animation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/phone/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/anotherphone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/phone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/stompers-gallery/phone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/stompers-blog/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/stompers-gallery/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/such-move/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/very-html5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/categories/video/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roederstompers.github.io/stompers/tags/wow/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

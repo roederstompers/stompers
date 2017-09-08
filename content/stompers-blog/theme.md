@@ -1,7 +1,7 @@
 +++
 title = "GridSide Theme"
 date = "2017-09-07"
-image = "/img/stompers-gallery.png"
+image = "/stompers/img/stompers-gallery.png"
 +++
 
 The GridSide theme is a multi-page portfolio and blog utilizing the

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Röderstompers</title>
+    <link>https://roederstompers.github.io/stompers/tags/</link>
+    <description>Recent content in Tags on Röderstompers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>&amp;#169; by Röderstompers</copyright>
+    
+	<atom:link href="https://roederstompers.github.io/stompers/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Tag With Spaces</title>
+      <link>https://roederstompers.github.io/stompers/tags/a-tag-with-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roederstompers.github.io/stompers/tags/a-tag-with-spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Another Tag</title>
+      <link>https://roederstompers.github.io/stompers/tags/another-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roederstompers.github.io/stompers/tags/another-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Much Animation</title>
+      <link>https://roederstompers.github.io/stompers/tags/much-animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roederstompers.github.io/stompers/tags/much-animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Such Move</title>
+      <link>https://roederstompers.github.io/stompers/tags/such-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roederstompers.github.io/stompers/tags/such-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very Html5</title>
+      <link>https://roederstompers.github.io/stompers/tags/very-html5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roederstompers.github.io/stompers/tags/very-html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wow</title>
+      <link>https://roederstompers.github.io/stompers/tags/wow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roederstompers.github.io/stompers/tags/wow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
